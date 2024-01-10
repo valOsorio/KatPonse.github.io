@@ -1,0 +1,52 @@
+.bg-color{
+    background-color: #22223b;
+}
+
+.languagetitle{
+    text-align: center;
+}
+.skillstitle{
+    text-align: center;
+}
+
+.skills{
+    background-color: #4a4e69;
+    color: #f2e9e4;
+}
+
+.language{
+    background-color: #22223b;
+    color: #f2e9e4;
+}
+
+.portafolio{
+    background-image:url(../img/dibujo-ilustrador-vista-superior-ipad.jpg);
+    background-size: cover;
+    text-align: center;
+    height: 200px;
+    padding: 2rem;
+    color: #f2e9e4;
+}
+
+.portafoliotitle{
+    padding: 1rem;
+}
+
+.education{
+    background-color: #f2e9e4;
+    color: #22223b;
+}
+
+.educationtitle{
+    text-align: center;
+    padding: 2rem;
+}
+
+.containeredu{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    padding: 2rem;
+    flex-wrap: wrap;
+}

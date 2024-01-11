@@ -1,12 +1,29 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
 .bg-color{
     background-color: #22223b;
 }
 
+header{
+    margin: 0;
+    border: 0;
+}
+
+#Hero-Section{
+    background-image: url(../img/ilustrador-creativo-que-trabaja-dispositivos.jpg);
+    background-size: cover;
+    color: #22223b;
+}
+
 .languagetitle{
     text-align: center;
+    padding: 2rem;
 }
 .skillstitle{
     text-align: center;
+    padding: 2rem;
 }
 
 .skills{
@@ -49,4 +66,32 @@
     text-align: center;
     padding: 2rem;
     flex-wrap: wrap;
+}
+
+.experience{
+    background-color: #9A8C98;
+    color: #f2e9e4;
+}
+
+.row{
+    display: flex;
+    padding-left: 3rem;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
+footer{
+    text-align: center;
+    background-color: #22223b;
+    color: #f2e9e4;
+}
+
+.contactbox{
+    display: flex;
+    justify-content: space-around;
+    padding: 1.5rem;
+}
+
+.contacttitle{
+    padding: 1rem;
 }

@@ -96,3 +96,9 @@ footer{
 .contacttitle{
     padding: 1rem;
 }
+
+.link_contacto{
+    text-decoration: none;
+    color: #f2e9e4;
+    font-weight: bold;
+}
